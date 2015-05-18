@@ -1,2 +1,2 @@
 # daemon-labs-material
-Attempt to get Daemon Labs material implementation working in Meteor.
+Attempt to get Daemon Labs material design implementation working in Meteor.
